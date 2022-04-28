@@ -8,7 +8,7 @@ public class DemoTest {
 		DemoTest d = new DemoTest();
 		d.m1();
 		d.m2();
-		
+		d.m3();
 		
 	}
 	
@@ -20,4 +20,8 @@ public class DemoTest {
 		System.out.println("M2 method");
 	}
 
+	public void m3() {
+		
+		System.out.println("m3 method");
+	}
 }
