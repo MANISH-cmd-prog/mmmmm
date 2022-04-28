@@ -13,7 +13,7 @@ public class DemoTest {
 	}
 	
 	public void m1() {
-		System.out.println("M1 method");
+		System.out.println("M11 method");
 	}
 	
 	public void m2() {
