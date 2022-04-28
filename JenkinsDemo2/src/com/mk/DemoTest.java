@@ -3,7 +3,7 @@ package com.mk;
 public class DemoTest {
 	
 	public static void main(String[] args) {
-		System.out.println("hiiii");
+		System.out.println("hiiii   ");
 		
 		DemoTest d = new DemoTest();
 		d.m1();
